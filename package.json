@@ -1,0 +1,27 @@
+{
+  "name": "miabotengine",
+  "version": "1.0.0",
+  "description": "BotEngine For Discord",
+  "main": "start.js",
+  "type": "module",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeTcHeNkA/MiaBotEngine.git"
+  },
+  "author": "mrpetchenka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeTcHeNkA/MiaBotEngine/issues"
+  },
+  "homepage": "https://github.com/PeTcHeNkA/MiaBotEngine#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.3",
+    "readdirp": "^3.6.0",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  }
+}
